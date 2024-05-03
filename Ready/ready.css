@@ -5,3 +5,8 @@ body {
     font-stretch: 1pt;
     font-family: 'Times New Roman', Times, serif;
 }
+
+h1 {
+    font-size: 40px;
+    color: aquamarine;
+}
