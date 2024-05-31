@@ -5,5 +5,12 @@ body {
 h1 {
     font-size: 40px;
     color: black;
+    font-variant: small-caps;
+    letter-spacing: 3px;
 }
 
+div {
+    width: 50%;
+    height: 300px;
+    background-color: blanchedalmond;
+}
