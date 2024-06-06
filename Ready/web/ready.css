@@ -1,13 +1,19 @@
-body {
- color: black;
- display: block;
- background-color: blueviolet; 
-}
-
 h1 {
     font-size: 40px;
     color: black;
     font-variant: small-caps;
     letter-spacing: 3px;
+    text-align: center;
 }
 
+h2{
+    font-style: italic;
+    background-color: aqua;
+    margin-right: 730px;
+}
+
+h3{
+    font-style: italic;
+    background-color: aqua;
+    margin-right: 1500px;
+}
