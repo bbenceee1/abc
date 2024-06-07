@@ -4,6 +4,7 @@ h1 {
     font-variant: small-caps;
     letter-spacing: 3px;
     text-align: center;
+    text-decoration: underline;
 }
 
 h2{
@@ -16,4 +17,8 @@ h3{
     font-style: italic;
     background-color: aqua;
     margin-right: 1500px;
+}
+body{
+    background-color: beige;
+    font-size: 20px;
 }
